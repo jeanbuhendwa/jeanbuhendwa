@@ -19,9 +19,11 @@ Self-taught web development
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                     </p>
-                    
-                    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeanbuhendwa1&theme=dark)](https://git.io/streak-stats)
-[![jeanbuhendwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/jeanbuhendwa/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/jeanbuhendwa/github-readme-stats)
+### Stats
+    
+                    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeanbuhendwa&theme=dark)](https://git.io/streak-stats)
+[![jeanbuhendwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanbuhendwa)](https://github.com/jeanbuhendwa/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbuhendwa&langs_count=8)](https://github.com/jeanbuhendwa/github-readme-stats)
