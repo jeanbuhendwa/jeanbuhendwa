@@ -23,3 +23,11 @@ Self-taught web development
 ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbuhendwa&langs_count=8)](https://github.com/jeanbuhendwa/github-readme-stats)
+
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jean-jacques-buhendwa-b5705316a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JeanJacques Buhendwa-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/jean_jacques0.1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-JeanJacques Buhendwa__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:jeanjacquesirenge40@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jeanjacquesirenge40@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+</p>
