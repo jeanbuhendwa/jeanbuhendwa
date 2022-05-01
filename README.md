@@ -26,7 +26,6 @@ Self-taught web development
 --- | --- 
 ![John's github stats](https://github-readme-stats.vercel.app/api?username=jeanbuhendwa&show_icons=true&theme=radical&include_all_commits=true) | ![John's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbuhendwa&theme=radical&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbuhendwa"></img>
 
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
