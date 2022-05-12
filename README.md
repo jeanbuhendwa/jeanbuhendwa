@@ -1,8 +1,9 @@
-Hi 👋 My name is John Buhendwa
-==============================
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=flase&width=600&lines=Hi+there+👋,+I+am+John+Buhendwa;+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
 
 Self-taught web development
 ---------------------------
+
 
 *   🌍  I'm based in Kampala | Uganda
 *   🖥️  See my portfolio at [Myportfolio](http://https://github.com/jeanbuhendwa)
