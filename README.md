@@ -9,7 +9,7 @@ Full Stack Web Developer
 *   🖥️  See my portfolio at [Myportfolio](https://jeanbuhendwa.github.io/portfolio-website/)
 *   ✉️  You can contact me at [jeanjacquesirenge40@gmail.com](mailto:jeanjacquesirenge40@gmail.com)
 *   🧠  I'm learning JavaScript
-*   🤝  I'm open to collaborating on React js & Javascript Open source projects.
+*   🤝  I'm open to collaborate on React js & Javascript Open source projects.
 
 ## Skills
 
