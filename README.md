@@ -1,15 +1,31 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=flase&width=600&lines=Hi+there+👋,+I+am+Jean+Jacques+Buhendwa+(John);+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
-
-Full Stack Web Developer
----------------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=flase&width=600&lines=Hi+there+👋,+I+am+Jean+Jacques+Buhendwa+(John);+I+am+a+Full-Stack+Web+Developer👨‍💻;+Welcome+to+My+Profile!😊;)](https://git.io/typing-svg)
 
 
-*   🌍  I'm based in Kampala | Uganda
-*   🖥️  See my portfolio at [Myportfolio](https://jeanbuhendwa.github.io/portfolio-website/)
-*   ✉️  You can contact me at [jeanjacquesirenge40@gmail.com](mailto:jeanjacquesirenge40@gmail.com)
-*   🧠  I'm learning JavaScript
-*   🤝  I'm open to collaborate on React js & Javascript Open source projects.
+<h2> &nbsp; A little bit About Me</h2>
+
+```yaml
+name: John Buhendwa
+located_in: Kampala, Uganda
+current_job: Front-End Developer
+education:
+  [
+    "Software Development student at Micrcoverse",
+    "Bachelor's In Information Technology",
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "IoT",
+  ]
+  
+currently_learning: ["React and Ruby on Rails"]
+hobbies: ["Piano", "Gaming"]
+
+["🤝  I'm open to collaborate on React js & Javascript Open source projects."]
+```
+  
 
 ## Skills
 
