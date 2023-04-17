@@ -39,9 +39,16 @@ hobbies: ["Piano", "Gaming"]
 
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jeanbuhendwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jeanbuhendwa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbuhendwa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jean-jacques-buhendwa-b5705316a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-JeanJacques Buhendwa-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:jeanjacquesirenge40@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jeanjacquesirenge40@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=jeanbuhendwa&icon=0&color=0)](https://visitcount.itsvg.in)
