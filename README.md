@@ -16,14 +16,15 @@ education:
 fields_of_interests:
   [
     "Web Development",
+    "Frontend Development",
     "UI/UX",
     "IoT",
   ]
   
-currently_learning: ["React and Ruby on Rails"]
+currently_learning: ["React, Next js and Ruby on Rails"]
 hobbies: ["Piano", "Gaming"]
 
-["🤝  I'm open to collaborate on React js & Javascript Open source projects."]
+["🤝  I'm open to collaborate on React & Next js & Javascript Open source projects."]
 ```
   
 
